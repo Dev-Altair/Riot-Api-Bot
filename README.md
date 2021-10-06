@@ -1,4 +1,4 @@
-# BottyMcBotface
+# Botty
 
 [![Build Status](https://travis-ci.org/Querijn/BottyMcBotface.svg?branch=master)](https://travis-ci.org/Querijn/BottyMcBotface)
 
